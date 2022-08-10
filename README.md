@@ -34,5 +34,5 @@ Linked lists are a data structure that can serve as traditional arrays, except w
 
 ## Author
 
-- Matt Runyon (all functions except insertSort())
+- Matt Runyon (all utlities except `insertSort()`)
 - Nick Parlante (for the actual problem set and some templating code -- see here: http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
